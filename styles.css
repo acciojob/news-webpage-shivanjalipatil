@@ -9,7 +9,7 @@
 .container{
 	display:flex;
 }
-.a{ height:150px;
+..latest-news-section{ height:150px;
     width:200px;
 	background-color:#f5f5f5;
    padding:10px;
@@ -22,7 +22,7 @@
    padding:10px;
    margin:5px;
 }
-.c{ 
+.pictorial-news-section{ 
 	height:150px;
     width:200px;
 	background-color:#f5f5f5;
